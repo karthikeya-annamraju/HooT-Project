@@ -29,8 +29,16 @@ I contributed to two key modules:
 ---
 
 ## 📷 Screenshots of My Work  
-![Description](assets/screenshot1.png)
-![Speaking Situations Module](assets/screenshot2.png)
+<table>
+  <tr>
+    <td><img src="assets/screenshot3.png" alt="Description" width="300"/></td>
+    <td><img src="assets/screenshot1.png" alt="Description" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot2.png" alt="Description" width="300"/></td>
+    <td><img src="assets/screenshot4.png" alt="Description" width="300"/></td>
+  </tr>
+</table>
 
 
 ---
