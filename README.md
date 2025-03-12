@@ -29,6 +29,8 @@ I contributed to two key modules:
 ---
 
 ## 📷 Screenshots of My Work  
+![Description](assets/screenshot1.png)
+![Speaking Situations Module](assets/screenshot2.png)
 
 
 ---
