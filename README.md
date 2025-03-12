@@ -1,6 +1,6 @@
 # 🎙️ HOOT – Your AI-Powered English Communication Coach  
 
-🚀 **Project Contribution by Annamraju Venkata Sri Sai Karthikeya**  
+🚀 **Project Contribution by Karthikeya Annamraju**  
 
 **HOOT** is an AI-powered **English communication** learning platform designed to help **engineering and placement aspirants** excel in:  
 ✅ **Listening**  
@@ -36,7 +36,7 @@ I contributed to two key modules:
 ## 🔗 Project Details  
 - **App Status:** ✅ Live & Deployed  
 - **Tech Stack:** Flutter, Firebase, AI-based Evaluation System  
-- **Codebase Control:** Managed by the college  
+- **Codebase Control:** Managed by Technical Hub Private Limited  
 
 Since the **source code is private**, this repository contains **screenshots** and a detailed **case study** of my contributions.  
 
@@ -44,6 +44,6 @@ Since the **source code is private**, this repository contains **screenshots** a
 
 ## 📬 Contact  
 📧 **Email:** avkarthikeya.dev@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/karthikeya-annamraju/)  
+🔗 **LinkedIn:** [Karthikeya Annamraju](https://www.linkedin.com/in/karthikeya-annamraju/)  
 
 💡 Feel free to connect if you'd like to discuss **Flutter, Firebase, or AI-driven applications**! 🚀  
