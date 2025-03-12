@@ -2,7 +2,7 @@
 
 🚀 **Project Contribution by Karthikeya Annamraju**  
 
-**HOOT** is an AI-powered **English communication** learning platform designed to help **engineering and placement aspirants** excel in:  
+**HooT** is an AI-powered **English communication** learning platform designed to help **engineering and placement aspirants** excel in:  
 ✅ **Listening**  
 ✅ **Reading**  
 ✅ **Writing**  
