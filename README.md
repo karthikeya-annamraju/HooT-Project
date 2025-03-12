@@ -43,7 +43,7 @@ Since the **source code is private**, this repository contains **screenshots** a
 ---
 
 ## 📬 Contact  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email:** avkarthikeya.dev@gmail.com  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/karthikeya-annamraju/)  
 
 💡 Feel free to connect if you'd like to discuss **Flutter, Firebase, or AI-driven applications**! 🚀  
