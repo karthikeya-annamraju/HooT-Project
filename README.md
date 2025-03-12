@@ -17,9 +17,9 @@ This app provides **real-time AI-based evaluation**, detailed activity instructi
 I contributed to two key modules:  
 
 ### 🗣️ **"Give Your Opinion"**  
-- Developed a **discussion-based module** where students can express opinions on various topics.  
+- Developed a **discussion-based module** where students can express opinions on a given topics.  
+- Designed an **engaging UI** to encourage participation.
 - Implemented **real-time AI feedback** for sentence structure and clarity.  
-- Designed an **engaging UI** to encourage participation.  
 
 ### 💬 **"Speaking Situations"**  
 - Built an interactive module that presents **real-world scenarios** to help students practice **spoken English**.  
